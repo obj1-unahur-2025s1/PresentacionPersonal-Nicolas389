@@ -15,5 +15,7 @@ Desde chico tengo afinidad por la informática. Tuve la suerte de tener una PC d
 
 -Realicé varios cursos de desarrollo web, JavaScript, bases de datos con MySQL y desarrollo de videojuegos con Unity y C#. Este último curso fue el que me animó a inscribirme a estudiar en la universidad.
 
+-Este año empecé como alumno asistente en la UNAHUR para la materia Introducción a la Lógica y Problemas Computacionales.
+
 -Tengo una perra llamada Canela y su juguete favorito es una jirafa de dos cabezas.
 ![Canela](./canela.png)
