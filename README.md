@@ -5,9 +5,10 @@
 
 ### Datos Personales
 - Mi nombre es: Nicolas Gonzalez
-- Vivo en
+- Vivo en Hurlingham 
 
 
 ### Otra Información
+- Estudio en la UNAHUR desde el año 2024
 - Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Tengo una perra llamada Canela
