@@ -4,7 +4,7 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
+- Mi nombre es: Nicolas Gonzalez
 - Vivo en
 
 
